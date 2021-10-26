@@ -1,0 +1,55 @@
+
+
+body {
+    background-color: black;
+  }
+
+nav > ul {
+list-style: none;
+border: 5px solid yellow;
+width: 10%;
+}
+
+li{
+    color: yellow;
+}
+
+body > main > article {
+    margin: auto;
+    width: 70%;
+}
+
+h1 {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:yellow;
+    background-color: darkgreen;
+    width: 50%;
+
+}
+
+h2 {
+    color: green;
+    text-decoration: underline;
+    
+}
+
+input{
+    border: 5px solid yellow;
+}
+
+
+p {
+font-size: 1rem;
+color: yellow;
+border: 5px solid darkgreen;
+}
+
+img {
+    width: 50%;
+    height: 250px;
+  }
+  
+form > label {
+ color: darkgreen ;
+  }
